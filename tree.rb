@@ -53,12 +53,4 @@ class PolyTreeNode
     #enter all children in queue
     #check each child (dequeueing from queue)
   end
-
-  # def children
-  #   @children
-  # end
-  #
-  # def value
-  #   @value
-  # end
 end
